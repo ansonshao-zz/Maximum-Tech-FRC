@@ -1,0 +1,24 @@
+To compile the examples:
+    1. Open Cygwin
+    2. Use the "cd" command to get to the directory you want
+        E.g. "cd Maximum-Tech-FRC/cygwin_examples/"
+    3. Run the command "gcc SOURCE.c -o OUTPUT",
+        replacing "SOURCE.c" with the name of the file
+        and OUTPUT with the name of the output file
+        E.g. "gcc hello_world.c -o hello_world"
+
+Getting the latest changes from the repository:
+    TBD
+    
+Updating your repository:
+    1. Save the changes you want to make
+    2. Right click on the "/cygwin/home/YOUR_USERNAME/Maximum-Tech-FRC" folder,
+        click on "Git GUI here"
+    3. Select the changes you want to upload from the "Unstaged Changes" menu.
+    4. Type a one-line commit message explaining the changes you have made.
+        E.g. "Added an example code file which calculates prime numbers"
+    5. Press "Commit"
+    6. Press "Push" and follow the directions.
+    
+Pushing your changes to the main repo:
+    TBD
