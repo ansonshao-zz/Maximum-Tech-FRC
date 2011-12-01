@@ -7,8 +7,7 @@
 main() {
     /* The following function is printf(), (notice how all functions have () after them)
     its purpose is to print a line of text to the screen. Here it is printing
-    hello, world and then \n. \n is the newline symbol, it starts a new line.
-    */
+    hello, world and then \n. \n is the newline symbol, it starts a new line. */
     printf("hello, world\n");
     // getchar() is a command which gets the user's input from the command line.
     // In this scenario, we are simply using it to stop the program from closing prematurely
