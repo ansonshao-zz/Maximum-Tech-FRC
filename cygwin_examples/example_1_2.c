@@ -5,7 +5,7 @@ main()
 {
     // Here we are defining two integer values, fahr and celsius.
     // These are used to store integers. Notice we do not assign any values yet.
-    int fahr, calsius;
+    int fahr, celsius;
     /* Here we define three more integers: lower, upper, and step.
     lower represents the starting value from which to calculate,
     upper is the upper bound of the algorithm, and step is the interval by which
@@ -32,4 +32,7 @@ main()
         // Increase the fahr value by the step (move to the next number)
         fahr = fahr + step;
     }
+    
+    // This is just so the program doesn't exit right away
+    getchar();
 }
