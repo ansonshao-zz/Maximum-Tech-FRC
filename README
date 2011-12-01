@@ -8,7 +8,9 @@ To compile the examples:
         E.g. "gcc hello_world.c -o hello_world"
 
 Getting the latest changes from the repository:
-    TBD
+    1. Right click on the "/cygwin/home/YOUR_USERNAME/Maximum-Tech-FRC" folder,
+        click on "Git Bash here"
+    2. Run the commands "git fetch upstream" and "git merge upstream/master".
     
 Updating your repository:
     1. Save the changes you want to make
